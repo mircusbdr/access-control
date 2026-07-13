@@ -2,6 +2,6 @@
   "notes": "Actualizare 3.5.8",
   "firmware": {
     "version": "3.5.9-ASYNC-OTA",
-    "url": "https://github.com/mircusbdr/access-control/releases/download/v3.5.8/firmware.bin"
+    "url": "https://github.com/mircusbdr/access-control/releases/download/firmware.bin"
   }
 }
