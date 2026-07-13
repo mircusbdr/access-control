@@ -1,7 +1,7 @@
 ﻿{
   "notes": "Actualizare firmware",
   "firmware": {
-    "version": "3.5.7",
+    "version": "3.5.7-ASYNC-OTA",
     "url": "https://github.com/mircusbdr/access-control/releases/latest/download/firmware.bin"
   }
 }
