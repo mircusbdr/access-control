@@ -1,9 +1,9 @@
 ﻿{
     "notes":  "Prima versiune cu actualizare online",
     "firmware":  {
-                     "version":  "3.5.3",
+                     "version":  "3.5.4",
                      "url":  "https://github.com/mircusbdr/access-control/releases/latest/download/firmware.bin",
-                     "size":  1177200,
-                     "md5":  "ce8f15760b419ae42b437a0b87204c2d"
+                     "size":  1178928,
+                     "md5":  "99539517fd985a62601c10472570d58f"
                  }
 }
