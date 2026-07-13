@@ -1,0 +1,7 @@
+﻿{
+  "notes": "Actualizare 3.5.9 Async OTA",
+  "firmware": {
+    "version": "3.5.9",
+    "url": "https://github.com/mircusbdr/access-control/releases/download/3.5.9-ASYNC-OTA/firmware.bin"
+  }
+}
