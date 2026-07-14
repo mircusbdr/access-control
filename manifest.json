@@ -1,7 +1,7 @@
 ﻿{
-  "notes": "Actualizare 4.1.6",
+  "notes": "Actualizare 4.1.7",
   "firmware": {
-    "version": "4.1.6",
-    "url": "https://github.com/mircusbdr/access-control/releases/download/4.1.6/firmware.bin"
+    "version": "4.1.7",
+    "url": "https://github.com/mircusbdr/access-control/releases/download/4.1.7/firmware.bin"
   }
 }
